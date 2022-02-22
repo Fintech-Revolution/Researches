@@ -1,3 +1,5 @@
+<img src="https://allesovercrypto.nl/sites/default/files/2021-10/image-zijn-beste-ido-platforms-solana_0.jpg" />
+
 # Solana
 [Solana](https://solana.com/) is a high-performance blockchain supporting builders around the world creating crypto apps that scale today. Solana is a decentralized blockchain built to enable scalable, user-friendly apps, Solana can process more transactions and charges much lower gass fees then Ethereum. With Solana you can write smart contracts with  ease and it is possible to trade in NFTs. 
 
@@ -44,6 +46,8 @@ According to (Sanyal, 2021):
 
 ## Conclusion
 Solana is an impressive cryptocurrency. With thousands of cryptocurrencies in the market, it stands apart by showing consistent growth and potential. Solana has very low gas fees an an incredible transaction speed. 
+
+<img src="https://c.tenor.com/NLHYdGDUr0AAAAAC/solana-sol.gif" />
 
 # Sources
 * Sanyal, S. (2021, 23 december). Is Solana a Good Investment in 2022? Explore its 5 Pros and Cons. Analytics Insight. Consulted on 21 februari 2022, from https://www.analyticsinsight.net/is-solana-a-good-investment-in-2022-explore-its-5-pros-and-cons/
