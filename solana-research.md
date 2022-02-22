@@ -1,5 +1,5 @@
 # Solana
-[Solana](https://solana.com/) is a high-performance blockchain supporting builders around the world creating crypto apps that scale today. Solana is a decentralized blockchain built to enable scalable, user-friendly apps, Solana can process more transactions and charges much lower gass fees then Ethereum.
+[Solana](https://solana.com/) is a high-performance blockchain supporting builders around the world creating crypto apps that scale today. Solana is a decentralized blockchain built to enable scalable, user-friendly apps, Solana can process more transactions and charges much lower gass fees then Ethereum. With Solana you can write smart contracts with  ease and it is possible to trade in NFTs. 
 
 Solana is a proof-of-stake (PoS) blockchain and also uses a new technology called Proof of History (PoH).
 
@@ -26,6 +26,7 @@ Solana has a community distributed over multiple platforms for example [Twitter]
 Solana enables developing in Rust.
 According to a survey conducted by Stack Overflow, Rust was voted for the top position by developers for four consecutive years. 
 
+* [How to build and deploy a solana smart contract](https://blog.chain.link/how-to-build-and-deploy-a-solana-smart-contract/)
 * [Hello word Solana](https://github.com/solana-labs/example-helloworld)
 * [Solana docs](https://docs.solana.com/)
 
