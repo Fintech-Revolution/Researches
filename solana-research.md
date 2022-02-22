@@ -32,6 +32,10 @@ According to a survey conducted by Stack Overflow, Rust was voted for the top po
 * [Hello word Solana](https://github.com/solana-labs/example-helloworld)
 * [Solana docs](https://docs.solana.com/)
 
+Videos on creating an exchange like Uniswap on the Solana blockchain:
+* [Solana token creation](https://www.youtube.com/watch?v=lzCNn6OFJGk)
+* [Create your own exchange on Solana blockchain](https://www.youtube.com/watch?v=Wx_TIwZJMC8)
+
 ## Pros and Cons
 According to (Sanyal, 2021):
 ### Pros
