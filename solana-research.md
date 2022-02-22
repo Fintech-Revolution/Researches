@@ -36,16 +36,20 @@ According to a survey conducted by Stack Overflow, Rust was voted for the top po
 According to (Sanyal, 2021):
 ### Pros
 * Fast transactions and low fees
+   > Solana is Ethereum’s biggest rival. ETH can currently process 14 transactions per second (TPS), whereas SOL can support 50,000 TPS.
 * Solana has the third-largest futures market
 * NFTs and smart contracts
  
 ### Cons
 * Solana is not decentralized enough
+   > The ETH network has over 200,000 validators, but the Solana network only has 1,000 validators to date. The more the number of validators, the more secure the network.
 * Unstable network
+   > With a shorter track record than Ethereum, investors may not be easily convinced to buy SOL over Ethereum. The crypto’s reputation took a hit when the Solana Foundation tweeted that its network is experiencing some instability.
 * Solana’s testing phases
+   > Solana has big plans for the future, but many of those plans still remain in beta testing. 
 
 ## Conclusion
-Solana is an impressive cryptocurrency. With thousands of cryptocurrencies in the market, it stands apart by showing consistent growth and potential. Solana has very low gas fees an an incredible transaction speed. 
+Solana is an impressive cryptocurrency. With thousands of cryptocurrencies in the market, it stands apart by showing consistent growth and potential. Solana has very low gas fees an an incredible transaction speed. Solana's main problem is that it is not decentralized enough with currently 1500+ validators while DeFi being a big importance in the crypto industry. With Solana launching in March 2020 it is a very young project and it might not work out.
 
 <img src="https://c.tenor.com/NLHYdGDUr0AAAAAC/solana-sol.gif" />
 
