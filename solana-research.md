@@ -43,6 +43,7 @@ According to (Sanyal, 2021):
    > Solana is Ethereum’s biggest rival. ETH can currently process 14 transactions per second (TPS), whereas SOL can support 50,000 TPS.
 * Solana has the third-largest futures market
 * NFTs and smart contracts
+* You can create a wallet on Solana
  
 ### Cons
 * Solana is not decentralized enough
